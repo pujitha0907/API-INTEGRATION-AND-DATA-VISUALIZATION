@@ -33,7 +33,8 @@ Output (like graphs) is displayed in a separate window.
   1. Weather Dashboards
   2. Live Data Monitoring
   3. Automation Tools  
-  4. Data Analytics Projects     
+  4. Data Analytics Projects
+     
         
  ##outpt
 
