@@ -1,9 +1,15 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
+
 "COMPANY" : CODTECH IT SOLUTIONS
+
 "NAME": CHAYAMMA GARI PUJITHA
+
 "INTERN ID": CT06DF1956
+
 "DOMAIN": PYTHON PROGRAMMING
+
 "DURATION" : 6 WEEKS
+
 "MENTOR" : NEELA SANTOSH
 
 ##The objective of this task is to use Python to fetch real-time data from a public API (such as OpenWeatherMap) and then visualize that data using a graph with two essential skills
