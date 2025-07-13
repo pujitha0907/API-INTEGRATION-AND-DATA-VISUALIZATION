@@ -35,5 +35,7 @@ Output (like graphs) is displayed in a separate window.
   3. Automation Tools  
   4. Data Analytics Projects     
         
-        
+ ##outpt
+
+ <img width="842" height="139" alt="Image" src="https://github.com/user-attachments/assets/3281fac9-273c-4a10-8167-b4f915b27663" />
         
